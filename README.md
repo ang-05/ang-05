@@ -40,9 +40,4 @@ Graduation: high school sciences with registration. 2021 - 2022
   
 <hr>
 
-###📊 Github Status
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhagawatAdhikari&show_icons=true&theme=dracula&locale=en" alt="BhagawatAdhikari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BhagawatAdhikari&theme=dracula&" alt="BhagawatAdhikari" /></p>
 
